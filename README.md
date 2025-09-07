@@ -46,7 +46,7 @@ This repository lists the steps for generation of initial files for lyrics of Be
 
 5. Open IntelliJ IDEA and open the above lyrics-content-generator project.
 
-6. In LyricsApplication.java ->
+6. In `LyricsApplication.java` ->
 comment these two lines -
 ```java
 /*HtmlToXlsxConverter.convert();
